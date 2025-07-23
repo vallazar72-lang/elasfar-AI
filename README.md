@@ -8,6 +8,7 @@ This repository contains the training code and data for the elasfar-AI model, a 
 
 [![Deploy to Hugging Face](https://img.shields.io/badge/🚀%20Deploy-Hugging%20Face-blueviolet?logo=huggingface)](https://huggingface.co/new?model=ibrahimlasfar/elasfar-AI)
 [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/Mark-Lasfar/elasfar-AI/blob/main/train.ipynb)
+![لقطة شاشة من 2025-07-23 00-49-00.png]([g](https://private-user-images.githubusercontent.com/208757814/469892241-f7eb7718-8238-4e53-8f21-ea893e6951f5.png?jwt=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJnaXRodWIuY29tIiwiYXVkIjoicmF3LmdpdGh1YnVzZXJjb250ZW50LmNvbSIsImtleSI6ImtleTUiLCJleHAiOjE3NTMyOTU3NzQsIm5iZiI6MTc1MzI5NTQ3NCwicGF0aCI6Ii8yMDg3NTc4MTQvNDY5ODkyMjQxLWY3ZWI3NzE4LTgyMzgtNGU1My04ZjIxLWVhODkzZTY5NTFmNS5wbmc_WC1BbXotQWxnb3JpdGhtPUFXUzQtSE1BQy1TSEEyNTYmWC1BbXotQ3JlZGVudGlhbD1BS0lBVkNPRFlMU0E1M1BRSzRaQSUyRjIwMjUwNzIzJTJGdXMtZWFzdC0xJTJGczMlMkZhd3M0X3JlcXVlc3QmWC1BbXotRGF0ZT0yMDI1MDcyM1QxODMxMTRaJlgtQW16LUV4cGlyZXM9MzAwJlgtQW16LVNpZ25hdHVyZT1kYjljMTFmZmZhZGI4OTI2MzNkNDllY2VkZmE0MDk2MGI5ZmNmZWI3OTE2MzZlNmEwNWFkNWRmZmMwMGM2Y2EyJlgtQW16LVNpZ25lZEhlYWRlcnM9aG9zdCJ9.TShnSOaR9LuCo-yCFaRPBjCfY7RYFeWMHahfjo066bo))
 
 ![لقطة شاشة من 2025-07-23 00-49-00.png](https://cdn-uploads.huggingface.co/production/uploads/67b8eabdd6935890f93be7b7/9CfhAe8lKTE3X32WF6Wmx.png)
 ![لقطة شاشة من 2025-07-23 00-49-29.png](https://cdn-uploads.huggingface.co/production/uploads/67b8eabdd6935890f93be7b7/nAH1yn4nTQJkxPThKqft7.png)
